@@ -8,7 +8,7 @@
 * [Prerequisites](#Prerequisites)
 * [Installing](#Installing)
 * [Running the tests](#Running-the-tests)
-* [Built With](#Built With)
+* [Built With](#Built-With)
 * [Contributing](#Contributing)
 * [Authors](#Authors)
 * [License](#License)
