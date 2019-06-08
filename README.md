@@ -1,19 +1,18 @@
 # Amazon RedShift Data Werehouse
 
 ## Summary
-* Introduction
-* Project Description
-* Getting Started
-* * Run Python scripts below
-* Database Schema
-* Prerequisites
-* Installing
-* Running the tests
-* Built With
-* Contributing
-* Authors
-* License
-* Acknowledgments
+* [Introduction](#Introduction)
+* [Project Description](#Project-Description)
+* [Getting Started](#Getting-Started)
+* [Database Schema](#Database-Schema)
+* [Prerequisites](#Prerequisites)
+* [Installing](#Installing)
+* [Running the tests](#Running-the-tests)
+* [Built With](#Built With)
+* [Contributing](#Contributing)
+* [Authors](#Authors)
+* [License](#License)
+* [Acknowledgments](#Acknowledgments)
 
 ## Introduction
 
