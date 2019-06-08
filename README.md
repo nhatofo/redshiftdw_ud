@@ -1,5 +1,20 @@
 # Amazon RedShift Data Werehouse
 
+## Summary
+* Introduction
+* Project Description
+* Getting Started
+* * Run Python scripts below
+* Database Schema
+* Prerequisites
+* Installing
+* Running the tests
+* Built With
+* Contributing
+* Authors
+* License
+* Acknowledgments
+
 ## Introduction
 
 Sparkify is a music streaming startup that provides free and paid on cloud music streaming plans and there are trying to enquire more users with paid plans. So they need to move from a local postgress analytic data wharehouse to a cloud based anlytics process using Amazon Redshift so that they can be more flexible on the of analyse  their users behavior and how to convert them to paid customers.
